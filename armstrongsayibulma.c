@@ -2,13 +2,14 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 int main() 
 {
 	
     
     int sayi = 0;
 	int basamaksayisi = 0;
-	int us= 0;
+	double us= 0;
 	int toplam= 0 ;
     int basamak = 0 ;
  	int eskisi = 0 ;
